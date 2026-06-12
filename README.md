@@ -11,10 +11,12 @@ This repository contains my solutions to 5 algorithmic and logic problems writte
 * **Output:** The twin diamond pattern.
 * **Example Input:** `3`
 * **Example Output:** 
-```text
+
    * *
   *****
    * *
+
+
 2. Digit Repeater
 Description: A program that reads a number of unknown length and prints each digit repeated a number of times equal to its value.
 
@@ -32,6 +34,8 @@ Plaintext
   9: 999999999
   4: 4444
   3: 333
+
+
 3. Next Power of 2
 Description: A program that finds the first power of 2 that is strictly greater than the given input number n.
 
@@ -43,6 +47,7 @@ Example Input: 95
 
 Example Output: 128
 
+
 4. Prime Factorization
 Description: A math algorithm that decomposes a number into its prime factors and prints them in ascending order.
 
@@ -53,6 +58,7 @@ Output: Prime factors in the format p1^k1*p2^k2.... If a prime factor has a powe
 Example Input: 100
 
 Example Output: 2^2*5^2
+
 
 5. Simple Typo Finder
 Description: A text processing tool designed to find typing errors. In normal English, 5 consonants rarely appear in a row. This program finds and reports any word containing 5 consecutive consonants. It ignores punctuation and skips fully uppercase words (like HTTPS) which might be abbreviations.
