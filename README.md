@@ -38,9 +38,10 @@ By eliminating brute-force methods and focusing on optimized logic, the solution
 ┃ ┗ 📜 question5.py                            # Solution: Simple Typo Finder
 ┣ 📜 .gitignore
 ┗ 📜 README.md
+```
+
 📦 Requirements
 Core Language
-Plaintext
 Python >= 3.6
 Note: No external packages (like NumPy or Pandas) are required. The entire pipeline relies purely on Python's built-in capabilities.
 
@@ -76,7 +77,7 @@ Algorithmic efficiency is critical when dealing with large inputs. For Question 
 Our engine optimizes this by using the i * i <= n mathematical rule. This drastically cuts down execution time.
 
 Real Output Example from the System:
-Plaintext
+
 🔢 Input Value: 98
 ⚙️ Execution Engine Processing...
 🔍 Factorization Steps:
